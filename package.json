@@ -9,7 +9,7 @@
     "build": "tsc -p .",
     "trade": "npm run build && npm run start"
   },
-  "keywords": [],
+  "keywords": ["cryptocurrency", "trading", "bot", "bitcoin", "ethereum", "monero"],
   "author": "",
   "license": "ISC",
   "dependencies": {
