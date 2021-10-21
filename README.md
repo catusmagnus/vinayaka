@@ -1,6 +1,3 @@
-<style> @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); </style>
-<body style='font-family: "Inter", sans-serif;'>
-
 # 🪔 vinayaka
 `वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।`\
 `अविघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥`
@@ -31,4 +28,3 @@ for phone users, [Termux](https://f-droid.org/en/packages/com.termux/) is recomm
 
 ## ⚠️ troubleshooting
 errors may originate from **Termux**, [**binance-api-node**](https://www.npmjs.com/package/binance-api-node), or from the bot itself. please [open an issue](https://github.com/catusmagnus/vinayaka/issues) with us if it's the latter.
-</body>
