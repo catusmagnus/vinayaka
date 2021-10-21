@@ -1,4 +1,6 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');</style>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+</style>
 <body style='font-family: "Inter", sans-serif;'>
 
 # 🪔 vinayaka
