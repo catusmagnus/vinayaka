@@ -1,0 +1,27 @@
+{
+  "name": "vinayaka",
+  "version": "0.1.0",
+  "description": "vinayaka is a cryptocurrency futures trading bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc -p .",
+    "trade": "npm run build && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "binance-api-node": "^0.11.22",
+    "dotenv": "^10.0.0",
+    "get-current-line": "^6.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.1",
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}

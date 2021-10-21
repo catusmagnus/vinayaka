@@ -1,0 +1,2 @@
+// Exports:
+export const TARGET_ASSETS = [ 'ETHUSDT', 'BTCUSDT', 'BNBUSDT', 'XMRUSDT', 'DEFIUSDT', 'SOLUSDT', 'EGLDUSDT' ]
